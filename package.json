@@ -1,0 +1,13 @@
+{
+  "name": "test-mono-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "volta": {
+    "node": "12.5.0",
+    "yarn": "1.17.2"
+  },
+  "dependencies": {
+    "@nrwl/schematics": "^8.2.0"
+  }
+}
